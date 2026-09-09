@@ -6,13 +6,23 @@
 
 Welcome to my personal **Python for Data Engineering** repository! 🚀
 
-This repository tracks my step-by-step hands-on learning journey as I master Python fundamentals, data manipulation, database connections, and data pipeline concepts for Data Engineering.
+This repository tracks my step-by-step hands-on learning journey as I master Python fundamentals, data structures, and data engineering concepts.
 
 ---
 
-## 📌 Main Entry Point
+## 📚 Practice Modules & Topics Completed
 
-- [`app.py`](./app.py) - Current active practice script.
+| Topic | Script File | Concepts Covered |
+| :--- | :--- | :--- |
+| 📝 **Variables & Data Types** | [`Variables&Datatype.py`](./Variables&Datatype.py) | Variable declaration, dynamic typing, and string concatenation |
+| 🔤 **String Operations** | [`Strings.py`](./Strings.py) | Methods (`lower()`, `upper()`, `isupper()`), string indexing, slicing & escape sequences |
+| 🔢 **Numbers & Math** | [`Numbers.py`](./Numbers.py) | Basic math operations, modulo, powers, rounding & `math` module (`ceil`, `sqrt`) |
+| 📥 **User Input** | [`Input.py`](./Input.py) | Reading interactive user inputs using `input()` |
+| 🧮 **Basic Calculator** | [`Basic_Calculator.py`](./Basic_Calculator.py) | Converting string inputs with `float()` and arithmetic calculations |
+| 🎮 **Mad Libs Game** | [`Mad_Lips.py`](./Mad_Lips.py) | Interactive CLI word game combining strings and inputs |
+| 📋 **Lists** | [`Lists.py`](./Lists.py) | List creation, index access, and list slicing |
+| 🛠️ **List Functions** | [`Lists_Functions.py`](./Lists_Functions.py) | List manipulation using `extend()`, `insert()`, and list methods |
+| 🎨 **Starter Script** | [`app.py`](./app.py) | Basic printing and output formatting practice |
 
 ---
 
