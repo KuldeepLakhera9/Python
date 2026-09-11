@@ -22,6 +22,17 @@ This repository tracks my step-by-step hands-on learning journey as I master Pyt
 | 🎮 **Mad Libs Game** | [`Mad_Lips.py`](./Mad_Lips.py) | Interactive CLI word game combining strings and inputs |
 | 📋 **Lists** | [`Lists.py`](./Lists.py) | List creation, index access, and list slicing |
 | 🛠️ **List Functions** | [`Lists_Functions.py`](./Lists_Functions.py) | List manipulation using `extend()`, `insert()`, and list methods |
+| 📦 **Tuples** | [`Tuples.py`](./Tuples.py) | Immutable tuple data structures and nested indexing |
+| ⚡ **Functions** | [`Function.py`](./Function.py) | Defining custom functions and passing parameters |
+| ↩️ **Return Statements** | [`return.py`](./return.py) | Returning computed values from functions |
+| 🔀 **If Statements** | [`if_statement.py`](./if_statement.py) | Conditional execution using `if`, `elif`, `else` & logical operators (`and`, `not`) |
+| 🧮 **Better Calculator** | [`Better_calculator.py`](./Better_calculator.py) | Multi-operator calculator (`+`, `-`, `*`, `/`) with conditional branching |
+| 🔑 **Dictionaries** | [`Dictionaries.py`](./Dictionaries.py) | Key-value mapping and dictionary lookups |
+| 🔄 **While Loops** | [`WhileLoop.py`](./WhileLoop.py) | Counter-based loop iteration using `while` |
+| 🎯 **Guessing Game** | [`GuessingGame.py`](./GuessingGame.py) | Interactive secret word game with guess limits and state flags |
+| 🔁 **For Loops** | [`forLoop.py`](./forLoop.py) | Sequence iteration over lists using `for` loops |
+| 📖 **Reading Files** | [`ReadingFiles.py`](./ReadingFiles.py) | File I/O read operations using `open()`, `.read()`, and `.close()` |
+| ✍️ **Writing Files** | [`WritingFile.py`](./WritingFile.py) | File I/O append operations using `open()` mode `"a"`, `.write()`, and `.close()` |
 | 🎨 **Starter Script** | [`app.py`](./app.py) | Basic printing and output formatting practice |
 
 ---
